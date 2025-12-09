@@ -49,8 +49,7 @@ function Footer() {
         &copy; Copyright{" "}
         <a
           className={cx("footer__copyright--link")}
-          rel="noreferrer"
-          target="_blank"
+          href="/contact"
         >
           Pham Thanh Dao
         </a>
